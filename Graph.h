@@ -1,9 +1,6 @@
 // Interface  for  a  directed  weighted graph ADT, where each vertex is
 // identified by a number between 0 and N - 1, where N is the number  of
 // vertices.
-// COMP2521 Assignment 2
-
-// !!! DO NOT MODIFY THIS FILE !!!
 
 #ifndef GRAPH_H
 #define GRAPH_H
