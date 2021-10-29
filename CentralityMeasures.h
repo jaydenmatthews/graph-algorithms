@@ -1,7 +1,5 @@
 // Centrality Measures API
-// COMP2521 Assignment 2
 
-// !!! DO NOT MODIFY THIS FILE !!!
 
 #ifndef CENTRALITY_MEASURES_H
 #define CENTRALITY_MEASURES_H
