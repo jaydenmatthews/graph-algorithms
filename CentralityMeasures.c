@@ -1,5 +1,5 @@
 // Centrality Measures API implementation
-
+// Written by Jayden Matthews
 
 #include <assert.h>
 #include <stdio.h>
