@@ -1,9 +1,6 @@
 // Interface for a priority queue ADT
 // This priority queue stores items of type int and uses priority values
 // of type int, with smaller values having higher priority.
-// COMP2521 Assignment 2
-
-// !!! DO NOT MODIFY THIS FILE !!!
 
 #ifndef PQ_H
 #define PQ_H
