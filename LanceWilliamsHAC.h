@@ -1,7 +1,4 @@
 // Lance-Williams Algorithm for Hierarchical Agglomerative Clustering
-// COMP2521 Assignment 2
-
-// !!! DO NOT MODIFY THIS FILE !!!
 
 #ifndef LANCE_WILLIAMS_HAC_H
 #define LANCE_WILLIAMS_HAC_H
