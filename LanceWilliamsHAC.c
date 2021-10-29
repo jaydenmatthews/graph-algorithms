@@ -1,5 +1,5 @@
 // Lance-Williams Algorithm for Hierarchical Agglomerative Clustering
-// COMP2521 Assignment 2
+// Recursive Solution by Jayden Matthews
 
 #include <assert.h>
 #include <float.h>
