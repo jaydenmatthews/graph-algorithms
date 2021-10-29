@@ -1,7 +1,4 @@
 // Dijkstra API
-// COMP2521 Assignment 2
-
-// !!! DO NOT MODIFY THIS FILE !!!
 
 #ifndef DIJKSTRA_H
 #define DIJKSTRA_H
