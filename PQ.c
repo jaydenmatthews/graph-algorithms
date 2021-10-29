@@ -1,7 +1,4 @@
 // Implementation of a priority queue ADT
-// COMP2521 Assignment 2
-
-// !!! DO NOT MODIFY THIS FILE !!!
 
 // Note: This priority queue implementation uses a linear array and does
 //       not  arrange  the items in any particular order. It is designed
