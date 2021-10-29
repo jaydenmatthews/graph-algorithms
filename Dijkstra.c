@@ -1,5 +1,4 @@
 // Dijkstra API implementation
-// COMP2521 Assignment 2
 
 #include <assert.h>
 #include <stdio.h>
